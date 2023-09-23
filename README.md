@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kushalsharma27
-- 👀 I’m interested in ...
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning java with DSA
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me kushalSharma17002@gmail.com
 
 <!---
 kushalsharma27/kushalsharma27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
