@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kushalsharma27
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning java with DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kushalsharma17002@gmail.com
 
